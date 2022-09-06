@@ -1,7 +1,7 @@
-.red{
-    color: red;
+.nav__link--active{
+    color: black;
 }
 
-.blue{
-    color: blue;
+.nav__link{
+    color: red;
 }
